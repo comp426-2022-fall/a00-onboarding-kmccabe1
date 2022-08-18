@@ -99,7 +99,7 @@ We will be using the Long Term Support (LTS) version of Node.
 This is the version that GitHub Actions (autograder) uses by default.
 
 ```
-$ nvm install --lts
+nvm install --lts
 ```
 
 3. Check what version is installed:
